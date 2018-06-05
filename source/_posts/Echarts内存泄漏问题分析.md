@@ -25,8 +25,9 @@ comments:
 
 对于地图来说，攻击线属于无限循环的动画，基于 requestAnimationFrame 进行实现，若不主动进行释放（this.map.dispose()），则会一直常驻内存并占用cpu资源。
 关于 requestAnimationFrame 的自动终止和手动终止，分别参考如下文献：
-https://developer.mozilla.org/zh-CN/docs/Web/API/Window/requestAnimationFrame
-https://developer.mozilla.org/zh-CN/docs/Web/API/Window/cancelAnimationFrame
+
+- [requestAnimationFrame](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/requestAnimationFrame)
+- [cancelAnimationFrame](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/cancelAnimationFrame)
 
 ```javascript
 ngOnChanges(changes: SimpleChanges) {
@@ -58,5 +59,3 @@ freeChart() {
 ## 典型的内存泄漏方式
 
 ## 开发者工具监控浏览器内存
-
-<br/><br/><br/><br/>
