@@ -11,7 +11,7 @@ timezone: Asia/Shanghai
 
 # custom Site settings
 SEOTitle: An A-RSnippet Hexo Theme
-keyword: "hexo, hexo theme, A-RSnippet, responsive, bootstrap" # seo key words
+keyword: "angular, 前端, es6, css3, 可视化, javascript" # seo key words
 
 favicon: # your favicon png
 # custom end
@@ -223,7 +223,7 @@ archive:
 mathjax:
   enable: true
   #per_page: true
-  cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  cdn: //cdn.bootcss.com/mathjax/2.7.1/MathJax.js # //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 # ---------------------------------------------------------------
 # Comment settings
