@@ -1,4 +1,4 @@
-# 赵磊的博客
+# zhl的博客
 
 https://zhaoleiwhut.github.io
 
@@ -19,8 +19,8 @@ hexo server
 打开_config.yml文件，适当修改你所关注的信息，比如：
 
 ```
-title: 赵磊的技术博客
-author: 赵磊
+title: zhl的技术博客
+author: zhl
 language: zh-CN
 timezone: Asia/Shanghai
 ...
