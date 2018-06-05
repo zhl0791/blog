@@ -1,7 +1,13 @@
 ---
 title: Angular单页面应用架构
 date: 2016-06-01 10:39:05
-tags:
+categories: 
+- ["framework", "angular"]
+- ["language", "javascript"]
+- test
+tags: 
+- angular.js
+- test
 ---
 如今Angular正处于十分尴尬的境地，因为要不了很久它也会被更加优秀和新奇的框架取代，但是angular的架构思路仍然具备重要的借鉴价值。
 

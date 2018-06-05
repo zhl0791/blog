@@ -51,9 +51,10 @@ footer:
 # ---------------------------------------------------------------
 menu:
   home: /
-  Tutorial: /tutorial/
-  LeetCode-category: /leetcode-category/
+  angular: /angular-category/
+  # LeetCode-category: /leetcode-category/
   LeetCode-tag: /leetcode-tag/
+  Tutorial: /tutorial/
   archives: /archives/
   tags: /tags/
   projects: /portfolio-slim/
