@@ -2,9 +2,9 @@
 # Site Information Settings
 # ---------------------------------------------------------------
 # title can include HTML code.
-title: A-RSnippet <a class="github-button" href="https://github.com/huyingjie/hexo-theme-A-RSnippet" data-icon="octicon-star" data-show-count="true" aria-label="Star huyingjie/hexo-theme-A-RSnippet on GitHub">Star</a>
+title: Zhl's blog <a class="github-button" href="https://github.com/huyingjie/hexo-theme-A-RSnippet" data-icon="octicon-star" data-show-count="true" aria-label="Star huyingjie/hexo-theme-A-RSnippet on GitHub">Star</a>
 subtitle: Nsfocus R&D engineer
-description: A website for A-RSnippet Hexo Theme
+description: 逃出自己的舒适圈
 author: 小小Z
 language: zh-Hans
 timezone: Asia/Shanghai
@@ -52,14 +52,14 @@ footer:
 menu:
   home: /
   angular: /angular-category/
-  # LeetCode-category: /leetcode-category/
-  LeetCode-tag: /leetcode-tag/
-  Tutorial: /tutorial/
   archives: /archives/
   tags: /tags/
-  projects: /portfolio-slim/
   support: /support/
   RSS: /atom.xml
+  # LeetCode-category: /leetcode-category/
+  # leetCode-tag: /leetcode-tag/
+  # tutorial: /tutorial/
+  # projects: /portfolio-slim/
 
 # ---------------------------------------------------------------
 # SNS settings

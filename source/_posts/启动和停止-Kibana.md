@@ -7,6 +7,8 @@ tags:
 - 操作系统：CentOS
 - kibana 版本：6.2.4
 
+## 下载和解压
+
 如果 kibana 实例已存在，需要先关停：
 
 ```bash
@@ -26,14 +28,14 @@ server.host: "IP1"
 elasticsearch.url: "http://IP2:9200"
 ```
 
-开启文件夹权限：
+## 开启文件夹权限
 
 ```
 sudo chmod -R 777 ./kibana-6.2.4-linux-x86_64
 sudo chown -R root:root ./kibana-6.2.4-linux-x86_64
 ```
 
-启动：
+## 启动
 
 ```
 nohup ./kibana-6.2.4-linux-x86_64/bin/kibana &

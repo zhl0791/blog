@@ -5,3 +5,7 @@
 .header-navbar .nav li a:hover {
     background-color: transparent !important;
 }
+
+.header-navbar .nav li a {
+    text-transform: capitalize;
+}
