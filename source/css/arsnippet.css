@@ -9,3 +9,7 @@
 .header-navbar .nav li a {
     text-transform: capitalize;
 }
+
+img{
+    max-width: 100%;
+}
