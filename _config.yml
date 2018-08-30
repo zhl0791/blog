@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 SEOTitle: Zhl's blog
 keyword: "angular, 前端, es6, css3, 可视化, javascript" # seo key words
 
-favicon: # your favicon png
+favicon: /img/favicon.png # your favicon png
 # custom end
 
 # URL
@@ -223,7 +223,7 @@ archive:
 #################################################################
 # MathJax Support
 mathjax:
-  enable: true
+  enable: false
   #per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/MathJax.js # //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
@@ -241,8 +241,8 @@ livere_uid: MTAyMC8zODA0OS8xNDU3OQ==
 # Analytics settings
 # ---------------------------------------------------------------
 # Baidu Analytics
-baidu_analytics:
-# Google Analytics
+baidu_analytics: 3eeaa01427c47e72490394b4b8efb1aa
+# Google Analytics （目前应该是假的）
 google_analytics: UA-38355881-1            # Format: UA-xxxxxx-xx
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
