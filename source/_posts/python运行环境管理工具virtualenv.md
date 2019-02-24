@@ -41,10 +41,10 @@ cd demo
 virtualenv env
 
 # 激活环境
-./env/Scripts/activate.bat
+./env/Scripts/activate
 
 # 解除环境（恢复到默认环境）
-./env/Scripts/deactivate.bat
+./env/Scripts/deactivate
 ```
 
 > 在linux下，激活环境的命令式 `source bin/activate` ，取消激活方法是 `deactivate` 。
