@@ -2,7 +2,7 @@
 layout: post
 title: web支持m3u8流媒体播放技术方案梳理
 draft: false
-date: 2020-01-22 22:04:43
+date: 2019-11-22 22:04:43
 categories:
 - ["html5", "javascript"]
 tags:

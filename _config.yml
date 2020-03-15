@@ -142,7 +142,7 @@ theme: a-rsnippet-u
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zhaoleiwhut/zhaoleiwhut.github.io.git
+  repo: https://github.com/iDo-0791/iDo-0791.github.io.git
   branch: master
 
 
